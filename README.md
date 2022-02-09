@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mauricio A. Londoño
 - 👀 I’m interested in numerical solutions for PDE 
-- 🌱 I’m currently learning Maths in data science 
+- 🌱 I’m currently learning Maths in data science and machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me alejandro.londono@udea.edu.co
 
